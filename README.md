@@ -5,4 +5,4 @@
 
 3、运行时请修改配置文件：a_little_config.txt及相应的运行环境：Java Build Path、Targeted Runtimes等
 
-4、详细使用请参考同目录下的jfinal官方手册：jfinal-2.0-manual.pdf
+4、详细使用请参考同目录doc下的使用说明.doc和jfinal官方手册：jfinal-2.0-manual.pdf
